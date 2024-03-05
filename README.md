@@ -4,11 +4,11 @@
 
 # Table of Contents
 
-##1. Introduction
-##2. Course Information
-##3. Installation
-##4. Usage
-##5. Contributing
+## 1. Introduction
+## 2. Course Information
+## 3. Installation
+## 4. Usage
+## 5. Contributing
 
 # Introduction
 
@@ -22,19 +22,19 @@
 
 ### To run the problem sets locally or review the solutions, follow these steps:
 
-###1. Clone the repository to your local machine.
-###2. Navigate to the specific problem set folder you want to explore.
-###3. Review the problem statement and requirements in the provided README or PDF file.
-###4. Examine the solution code files to understand the implementation.
+### 1. Clone the repository to your local machine.
+### 2. Navigate to the specific problem set folder you want to explore.
+### 3. Review the problem statement and requirements in the provided README or PDF file.
+### 4. Examine the solution code files to understand the implementation.
 
 # Usage
 
 ### To use the solutions provided in this repository, you can follow these steps:
 
-###1. Clone the repository to your local machine.
-###2. Navigate to the specific problem set folder you are interested in.
-###3. Review the problem statement and requirements in the provided README or PDF file.
-###4.Examine the solution code files to understand the implementation or use them as a reference for your own work.
+### 1. Clone the repository to your local machine.
+### 2. Navigate to the specific problem set folder you are interested in.
+### 3. Review the problem statement and requirements in the provided README or PDF file.
+### 4.Examine the solution code files to understand the implementation or use them as a reference for your own work.
 
 # Contributing
-###1. Contributions to this repository are generally not accepted, as it primarily serves as a collection of personal solutions to problem sets. However, if you have suggestions or improvements for the existing solutions, feel free to open an issue or submit a pull request.
+### 1. Contributions to this repository are generally not accepted, as it primarily serves as a collection of personal solutions to problem sets. However, if you have suggestions or improvements for the existing solutions, feel free to open an issue or submit a pull request.
