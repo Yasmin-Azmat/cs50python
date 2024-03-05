@@ -33,6 +33,9 @@
 
 ### 1. Clone the repository to your local machine.
 ### 2. Navigate to the specific problem set folder you are interested in.
+
+# Video Link:
+https://youtu.be/-R0AmJB1E0E
 ### 3. Review the problem statement and requirements in the provided README or PDF file.
 ### 4.Examine the solution code files to understand the implementation or use them as a reference for your own work.
 
